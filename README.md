@@ -1,0 +1,2 @@
+# seata-example
+seata example
